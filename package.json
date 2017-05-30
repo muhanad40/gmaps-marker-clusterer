@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:gmaps-marker-clusterer/gmaps-marker-clusterer.git"
+    "url": "git@github.com:muhanad40/gmaps-marker-clusterer.git"
   },
   "keywords": [
     "google",
@@ -24,7 +24,7 @@
   "author": "Luke Mahe",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/gmaps-marker-clusterer/gmaps-marker-clusterer/issues"
+    "url": "https://github.com/muhanad40/gmaps-marker-clusterer/issues"
   },
-  "homepage": "https://github.com/gmaps-marker-clusterer/gmaps-marker-clusterer#readme"
+  "homepage": "https://github.com/muhanad40/gmaps-marker-clusterer#readme"
 }
